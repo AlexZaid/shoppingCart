@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Music",
+        "price": 37,
+        "imgUrl": "Pacific Premier Bancorp Inc"
+    },
+    {
+        "id": 2,
+        "name": "Grocery",
+        "price": 48,
+        "imgUrl": "Hudson Pacific Properties, Inc."
+    },
+    {
+        "id": 3,
+        "name": "Beauty",
+        "price": 21,
+        "imgUrl": "Determine, Inc. "
+    },
+    {
+        "id": 4,
+        "name": "Toys",
+        "price": 84,
+        "imgUrl": "PVH Corp."
+    },
+    {
+        "id": 5,
+        "name": "Tools",
+        "price": 98,
+        "imgUrl": "Lombard Medical, Inc."
+    },
+    {
+        "id": 6,
+        "name": "Health",
+        "price": 60,
+        "imgUrl": "Resolute Energy Corporation"
+    },
+    {
+        "id": 7,
+        "name": "Toys",
+        "price": 82,
+        "imgUrl": "Visteon Corporation"
+    },
+    {
+        "id": 8,
+        "name": "Sports",
+        "price": 4,
+        "imgUrl": "Lexington Realty Trust"
+    },
+    {
+        "id": 9,
+        "name": "Sports",
+        "price": 13,
+        "imgUrl": "KLX Inc."
+    },
+    {
+        "id": 10,
+        "name": "Automotive",
+        "price": 18,
+        "imgUrl": "Entergy Mississippi, Inc."
+    },
+    {
+        "id": 11,
+        "name": "Health",
+        "price": 97,
+        "imgUrl": "Guggenheim Taxable Municipal Managed Duration Trst"
+    },
+    {
+        "id": 12,
+        "name": "Sports",
+        "price": 74,
+        "imgUrl": "Urban Outfitters, Inc."
+    },
+    {
+        "id": 13,
+        "name": "Outdoors",
+        "price": 28,
+        "imgUrl": "First Data Corporation"
+    },
+    {
+        "id": 14,
+        "name": "Grocery",
+        "price": 52,
+        "imgUrl": "Torchmark Corporation"
+    },
+    {
+        "id": 15,
+        "name": "Health",
+        "price": 25,
+        "imgUrl": "Innovative Industrial Properties, Inc."
+    },
+    {
+        "id": 16,
+        "name": "Toys",
+        "price": 8,
+        "imgUrl": "SINOPEC Shangai Petrochemical Company, Ltd."
+    },
+    {
+        "id": 17,
+        "name": "Beauty",
+        "price": 48,
+        "imgUrl": "Gray Television, Inc."
+    },
+    {
+        "id": 18,
+        "name": "Electronics",
+        "price": 79,
+        "imgUrl": "Noah Holdings Ltd."
+    },
+    {
+        "id": 19,
+        "name": "Baby",
+        "price": 25,
+        "imgUrl": "Lantheus Holdings, Inc."
+    },
+    {
+        "id": 20,
+        "name": "Movies",
+        "price": 11,
+        "imgUrl": "JMP Group LLC"
+    },
+    {
+        "id": 21,
+        "name": "Home",
+        "price": 15,
+        "imgUrl": "Merus N.V."
+    },
+    {
+        "id": 22,
+        "name": "Garden",
+        "price": 83,
+        "imgUrl": "Motorcar Parts of America, Inc."
+    },
+    {
+        "id": 23,
+        "name": "Grocery",
+        "price": 17,
+        "imgUrl": "VictoryShares US Discovery Enhanced Volatility Wtd ETF"
+    },
+    {
+        "id": 24,
+        "name": "Grocery",
+        "price": 5,
+        "imgUrl": "PDC Energy, Inc."
+    },
+    {
+        "id": 25,
+        "name": "Electronics",
+        "price": 42,
+        "imgUrl": "ABAXIS, Inc."
+    },
+    {
+        "id": 26,
+        "name": "Jewelry",
+        "price": 22,
+        "imgUrl": "Tandy Leather Factory, Inc."
+    },
+    {
+        "id": 27,
+        "name": "Garden",
+        "price": 70,
+        "imgUrl": "Onconova Therapeutics, Inc."
+    },
+    {
+        "id": 28,
+        "name": "Baby",
+        "price": 40,
+        "imgUrl": "Knight Transportation, Inc."
+    },
+    {
+        "id": 29,
+        "name": "Home",
+        "price": 78,
+        "imgUrl": "China Online Education Group"
+    },
+    {
+        "id": 30,
+        "name": "Games",
+        "price": 35,
+        "imgUrl": "Retail Properties of America, Inc."
+    },
+    {
+        "id": 31,
+        "name": "Sports",
+        "price": 88,
+        "imgUrl": "Vanguard Russell 1000 Value ETF"
+    },
+    {
+        "id": 32,
+        "name": "Games",
+        "price": 31,
+        "imgUrl": "Fifth Street Senior Floating Rate Corp."
+    },
+    {
+        "id": 33,
+        "name": "Books",
+        "price": 48,
+        "imgUrl": "Lamb Weston Holdings, Inc."
+    },
+    {
+        "id": 34,
+        "name": "Industrial",
+        "price": 42,
+        "imgUrl": "John Hancock Premium Dividend Fund"
+    },
+    {
+        "id": 35,
+        "name": "Books",
+        "price": 71,
+        "imgUrl": "Exactech, Inc."
+    },
+    {
+        "id": 36,
+        "name": "Home",
+        "price": 92,
+        "imgUrl": "Santander Holdings USA, Inc."
+    },
+    {
+        "id": 37,
+        "name": "Outdoors",
+        "price": 30,
+        "imgUrl": "Radian Group Inc."
+    },
+    {
+        "id": 38,
+        "name": "Shoes",
+        "price": 69,
+        "imgUrl": "First Trust Brazil AlphaDEX Fund"
+    },
+    {
+        "id": 39,
+        "name": "Industrial",
+        "price": 98,
+        "imgUrl": "Pennsylvania Real Estate Investment Trust"
+    },
+    {
+        "id": 40,
+        "name": "Electronics",
+        "price": 19,
+        "imgUrl": "Barnes Group, Inc."
+    },
+    {
+        "id": 41,
+        "name": "Sports",
+        "price": 47,
+        "imgUrl": "GasLog LP."
+    },
+    {
+        "id": 42,
+        "name": "Music",
+        "price": 38,
+        "imgUrl": "Shell Midstream Partners, L.P."
+    },
+    {
+        "id": 43,
+        "name": "Toys",
+        "price": 88,
+        "imgUrl": "Triumph Group, Inc."
+    },
+    {
+        "id": 44,
+        "name": "Computers",
+        "price": 68,
+        "imgUrl": "Agnico Eagle Mines Limited"
+    },
+    {
+        "id": 45,
+        "name": "Music",
+        "price": 9,
+        "imgUrl": "Southside Bancshares, Inc."
+    },
+    {
+        "id": 46,
+        "name": "Home",
+        "price": 32,
+        "imgUrl": "Brocade Communications Systems, Inc."
+    },
+    {
+        "id": 47,
+        "name": "Automotive",
+        "price": 94,
+        "imgUrl": "Public Storage"
+    },
+    {
+        "id": 48,
+        "name": "Outdoors",
+        "price": 90,
+        "imgUrl": "Invesco Trust for Investment Grade Municipals"
+    },
+    {
+        "id": 49,
+        "name": "Garden",
+        "price": 87,
+        "imgUrl": "Veritex Holdings, Inc."
+    },
+    {
+        "id": 50,
+        "name": "Clothing",
+        "price": 10,
+        "imgUrl": "McClatchy Company (The)"
+    }
+]
